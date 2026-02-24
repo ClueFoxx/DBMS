@@ -1,4 +1,4 @@
-#  RETRIEVING DATA – EMPLOYEE TABLE
+# ( RETRIEVING DATA – EMPLOYEE TABLE )
 
 ## 1. Employees who joined before 30-Jun-1980 OR after 31-Dec-1981
 
@@ -77,4 +77,5 @@ SELECT ename FROM employee WHERE sal + (sal * 0.20) > 3000;
 
 ```sql
 SELECT ename, sal FROM employee WHERE LENGTH(sal) >= 3;
+
 ```
