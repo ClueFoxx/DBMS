@@ -34,7 +34,7 @@ Each file contains the **problem statement, SQL queries, and explanation of resu
 * Relational Database Concepts
 * DBMS (MySQL / PostgreSQL / SQLite)
 
-## 🎯 Learning Outcomes
+## 🎯 Learning Outcomes 
 
 Through these experiments, the following concepts are explored:
 
