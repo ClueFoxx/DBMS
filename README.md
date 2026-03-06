@@ -47,6 +47,6 @@ Through these experiments, the following concepts are explored:
 ## 👨‍💻 Author
 
 **Rohan Singh**
-Computer Science Student
+
 
 GitHub: https://github.com/ClueFoxx
