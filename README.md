@@ -42,7 +42,7 @@ Through these experiments, the following concepts are explored:
 * SQL query writing
 * Data manipulation (INSERT, UPDATE, DELETE)
 * Data retrieval using SELECT queries
-* Understanding relational database structure
+* Understanding relational database structures
 
 ## 👨‍💻 Author
 
